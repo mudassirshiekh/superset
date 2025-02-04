@@ -70,6 +70,7 @@ Superset provides:
 - A **cloud-native architecture** designed from the ground up for scale
 
 ## Screenshots & Gifs
+## By Mudassir Alam
 
 **Video Overview**
 <!-- File hosted here https://github.com/apache/superset-site/raw/lfs/superset-video-4k.mp4 -->
